@@ -2,11 +2,11 @@
 Cheapest OTP bot on the market.
 
 **Modules :**
-*Paypal
-*Coinbase
-*ApplePay
-*ShopPay
-*Foodora
+Paypal
+,Coinbase
+,ApplePay
+,ShopPay
+,Foodora
 **+ many more**
 
 Our prices start from just £20 :)
